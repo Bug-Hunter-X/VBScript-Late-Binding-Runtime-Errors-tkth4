@@ -1,0 +1,1 @@
+This repository demonstrates a common VBScript error involving late binding. Late binding, while offering flexibility, can lead to runtime errors if the object or method being called doesn't exist.  The `lateBindingError.vbs` file shows the problematic code, and `lateBindingSolution.vbs` provides a solution using error handling.
